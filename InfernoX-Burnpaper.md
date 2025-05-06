@@ -2,9 +2,11 @@
 
 ## Unleash the Future with InfernoX: The OmniChain Titan of the Inferno Ecosystem
 
-### Introduction
+### Introduction!
 
-Step into the future with InfernoX, a groundbreaking evolution of the Inferno ecosystem into a dynamic, OmniChain platform. Crafted to forge seamless connections across diverse blockchain networks—EVM and beyond—InfernoX is here to revolutionize accessibility and expand Inferno’s dominion while staying rooted to its Ethereum core.
+
+Step into the future with InfernoX, a groundbreaking evolution of the Inferno ecosystem into a dynamic, OmniChain platform. Crafted to forge seamless connections across diverse blockchain networks—EVM and beyond—InfernoX is here to revolutionize accessibility and expand Inferno’s dominion while staying rooted to its Ethereum core. ![5969629350733138487](https://github.com/user-attachments/assets/f07b4003-4b0e-4448-bcd2-67c25340732c)
+
 
 ---
 
