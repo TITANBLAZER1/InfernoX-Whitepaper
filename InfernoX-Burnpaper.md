@@ -38,10 +38,10 @@ Step into the future with InfernoX, a groundbreaking evolution of the Inferno ec
 ### Liquidity and Market Operations
 
 - **Ethereum Core Pool**  
-  Lock in 10 Billion Inferno to mint an equal fortress of InfernoX—secured forever in the annals of blockchain.
+  Lock in 25 Billion Inferno to mint an equal fortress of InfernoX—secured forever in the annals of blockchain.
 
 - **BASE Chain Mastery**  
-  Command 10 Billion InfernoX and match it with 10 Billion TITANX turned X28, creating an unbreakable liquidity lock.
+  Command 25 Billion InfernoX and match it with 25 Billion TITANX turned X28, creating an unbreakable liquidity lock.
 
 - **Strategic Fee Annihilation**  
   Turn transaction fees into a weapon—burning InfernoX fees and converting Inferno fees into more fuel for the fire.
