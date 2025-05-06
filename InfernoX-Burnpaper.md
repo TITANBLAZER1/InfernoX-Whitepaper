@@ -1,6 +1,6 @@
 # InfernoX Burnpaper
 
-## Unleash the Future with InfernoX: The OmniChain Titan of the Inferno Ecosystem
+## Unleash the Future with InfernoX: The OmniChain Bull of the Inferno Ecosystem
 
 ### Introduction!
 
